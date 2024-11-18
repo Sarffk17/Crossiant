@@ -3,6 +3,13 @@ body {
     display: block;
     margin: 8px;
 }
+
+h1 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+}
+
 h1 p{
     text-align: center;
 }
@@ -22,4 +29,9 @@ img {
 footer {
     text-align: center;
     display: block;
+}
+
+footer a {
+    margin: 0 10px;
+    color: green;
 }
