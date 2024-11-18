@@ -15,3 +15,7 @@ img {
     overflow-clip-margin: content-box;
     overflow: clip;
 }
+footer {
+    text-align: center;
+    display: block;
+}
